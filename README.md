@@ -1,8 +1,10 @@
 Documentação CRUD 
 
-Iniciar o projeto 
+Iniciar o projeto:
 
 npm install 
+
+Iniciar o servidor:
 
 node.js
 
